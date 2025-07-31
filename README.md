@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi, I'm Youssef Shaban 👋</h1>
-  <p>Front-End Developer | CS & AI Student at Beni Suef University</p>
+  <p>Front-End Developer | CS & AI Student at Egypt in Beni Suef University</p>
   
 </div>
 
