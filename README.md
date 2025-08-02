@@ -1,7 +1,9 @@
 <div align="center">
 
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="250"/>
+
   <h1>Hi, I'm Youssef Shaban 👋</h1>
-  <p>Front-End Developer | CS & AI Student at Egypt in Beni Suef University</p>
+  <p>Front-End Developer | CS & AI Student at Beni Suef University, Egypt</p>
   
 </div>
 
@@ -33,6 +35,9 @@
 
 ### 🚀 Featured Projects
 
+Here are some of my featured Front-End projects:
+
+- 🔗 <img src="https://img.icons8.com/fluency/20/hospital-room.png"/> [MedStar Hospital](https://joo1238.github.io/MedStar-Hospital/) — A modern hospital website with clean layout and responsive design  
 - 🔗 <img src="https://img.icons8.com/fluency/20/code.png"/> [Tech Capital](https://joo1238.github.io/Tech-Capital/) — A modern tech website with a clean and responsive UI  
 - 🔗 <img src="https://img.icons8.com/fluency/20/night-landscape.png"/> [Fylo Dark Theme Landing Page](https://joo1238.github.io/fylo-dark-theme-landing-page/) — A dark-themed landing page built with HTML & CSS  
 - 🔗 <img src="https://img.icons8.com/fluency/20/copy.png"/> [Clipboard Landing Page](https://joo1238.github.io/clipboard-landing-page/) — A minimal landing page for a clipboard app using HTML & CSS  
